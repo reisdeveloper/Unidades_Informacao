@@ -14,6 +14,8 @@ Unidades De Informação
 
    e como vamos descobrir o BT nesse caso?
    ## (famosa regra de 3)
-   8X = 512 \n
+   8X = 512 
+   
    X = 512 / 8 = 64
+   
    Logo valor de byte: 64Bt
