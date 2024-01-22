@@ -5,7 +5,7 @@ Unidades De Informação
   
  Ex: 512 bits equivalem a quantos Bytes?
   
-  8 bits ------- 1 Byte
+  8 bits ------- 1 Byte /n
   512 bits ------ x Byte
   
   Logo: Para passar de bit para Byte, divide por 8.
